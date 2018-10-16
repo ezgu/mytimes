@@ -1,0 +1,21 @@
+nav{
+  padding-left: 75%
+}
+.logo span{
+  color: mediumaquamarine;
+}
+header{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+.main-container{
+  display: flex;
+}
+.main-title{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+}
+.story{
+  display: flex;
+  flex-direction: column;
+}
